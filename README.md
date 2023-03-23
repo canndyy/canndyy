@@ -5,14 +5,15 @@
 
 # Hi I am Candy 👋
 I am a Data Scientist | Data Engineer | Data Analyst | Registered UK Oncology Pharmacist from London. 
-I re
 
 - 🔭 I’m looking to collaborate on data science projects
 - 🌱 I’m currently learning everything!
 
+---
 ### ⚙️ Have a look at some examples of my work:
 - [Recipe Racoon](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and NLP AI product built with Python that identify images of food ingredients and suggest customised recipes
 
+---
 ### 📫 Connect with me: 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40em" align="center" alt="Follow canndyy on LinkedIn" title="Follow canndyy on LinkedIn"/>](http://bit.ly/3yVdq7k)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="40em" align="center" alt="Follow canndyy on Kaggle" title="Follow canndyy on Kaggle"/>](http://bit.ly/40q5sPd)
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 ### 🛠 &nbsp; My Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

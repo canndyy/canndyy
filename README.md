@@ -3,15 +3,15 @@
 </div>
 
 
-# Hi I am Candy 👋
-I am a Data Scientist | Data Engineer | Data Analyst | Registered UK Oncology Pharmacist from London. 
+# Hi there, I am Candy 👋
+I am a Data Scientist | Data Engineer | Data Analyst | Oncology Pharmacist from London, United Kingdom
 
-- 🔭 I’m looking to collaborate on data science projects
+- 🔭 I’m looking to any collaboration on data science projects
 - 🌱 I’m currently learning everything!
 
 ---
 ### ⚙️ Have a look at some examples of my work:
-- [RECIPE RACCOON](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and NLP AI product built with Python that identify images of food ingredients and suggest customised recipes
+- [RECIPE RACCOON](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and Natural Language Processing AI product that identifies food ingredient from images and suggests customised recipes
 
 ---
 ### 📫 Connect with me: 

@@ -11,7 +11,7 @@ I am a Data Scientist | Data Engineer | Data Analyst | Registered UK Oncology Ph
 
 ---
 ### ⚙️ Have a look at some examples of my work:
-- [Recipe Racoon](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and NLP AI product built with Python that identify images of food ingredients and suggest customised recipes
+- [RECIPE RACCOON](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and NLP AI product built with Python that identify images of food ingredients and suggest customised recipes
 
 ---
 ### 📫 Connect with me: 

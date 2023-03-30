@@ -6,6 +6,7 @@
 # Hi there, I am Candy 👋
 I am a Data Scientist | Data Engineer | Data Analyst | Oncology Pharmacist from London, United Kingdom
 
+- 👀 I’m interested in health technologies, AI and ML in healthcare/ pharmaceutics
 - 🔭 I’m looking to any collaboration on data science projects
 - 🌱 I’m currently learning everything!
 

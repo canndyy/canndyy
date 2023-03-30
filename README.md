@@ -8,7 +8,8 @@ I am a Data Scientist | Data Engineer | Data Analyst | Oncology Pharmacist from 
 
 - 👀 I’m interested in health technologies, AI and ML in healthcare/ pharmaceutics
 - 🔭 I’m looking to any collaboration on data science projects
-- 🌱 I’m currently learning everything!
+- 🌱 I’m currently learning GCP
+
 
 ---
 ### ⚙️ Have a look at some examples of my work:
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](http://bit.ly/3yVdq7k)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📫 Reach me at ckbar03@hotmail.com
 -->
 
 ---

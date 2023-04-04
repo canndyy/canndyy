@@ -4,12 +4,11 @@
 
 
 # Hi there, I am Candy 👋
-I am a Data Scientist | Data Engineer | Data Analyst | Oncology Pharmacist from London, United Kingdom
-
-- 👀 I’m interested in health technologies, AI and ML in healthcare/ pharmaceutics
-- 🔭 I’m looking to any collaboration on data science projects
-- 🌱 I’m currently learning GCP
-
+I am a graduate of an intensive Data Science bootcamp at Le Wagon, and a Cancer Pharmacist from London, United Kingdom.
+ 
+- 👀 I’m interested in Computer Vision, NLP and Data Infrastructure/Pipelines
+- 🔭 I’m looking to collaboration on data science projects
+- 🌱 I’m currently learning Generative Adversarial Networks (GANs) and RL
 
 ---
 ### ⚙️ Have a look at some examples of my work:

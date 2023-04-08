@@ -4,7 +4,7 @@
 
 
 # Hi there, I am Candy 👋
-I am a graduate of an intensive Data Science bootcamp at Le Wagon, and a Cancer Pharmacist from London, United Kingdom.
+I am a graduate of an intensive Data Science bootcamp at Le Wagon, and a Cancer & Nutrition Pharmacist from London, United Kingdom.
  
 - 👀 I’m interested in Computer Vision, NLP and Data Infrastructure/Pipelines
 - 🔭 I’m looking to collaboration on data science projects

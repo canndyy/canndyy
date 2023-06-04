@@ -4,12 +4,7 @@
 
 
 # Hi there, I am Candy 👋
-I am a graduate of an intensive Data Science bootcamp at Le Wagon, and a Cancer & Nutrition Pharmacist from London, United Kingdom.
  
-- 👀 I’m interested in Computer Vision, NLP and Data Infrastructure/Pipelines
-- 🔭 I’m looking to collaboration on data science projects
-- 🌱 I’m currently learning Generative Adversarial Networks (GANs) and RL
-
 ---
 ### ⚙️ Have a look at some examples of my work:
 - [RECIPE RACCOON](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and Natural Language Processing AI product that identifies food ingredient from images and suggests customised recipes
@@ -24,6 +19,9 @@ I am a graduate of an intensive Data Science bootcamp at Le Wagon, and a Cancer 
 
 Here are some ideas to get you started:
 
+- 👀 I’m interested in Computer Vision, NLP and Data Infrastructure/Pipelines
+- 🔭 I’m looking to collaboration on data science projects
+- 🌱 I’m currently learning Generative Adversarial Networks (GANs) and RL
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -8,6 +8,7 @@
 ---
 ### ⚙️ Have a look at some examples of my work:
 - [RECIPE RACCOON](https://github.com/canndyy/your_kitchen_ai) - a Computer Vision and Natural Language Processing AI product that identifies food ingredient from images and suggests customised recipes
+- [Leukemia Cell Classifier](https://github.com/canndyy/all_leukemia_classifier) - Microscopic image classifier that distinguishes between normal and Acute Lymphoblastic Leukemia (ALL) blast cells
 
 ---
 ### 📫 Connect with me: 
